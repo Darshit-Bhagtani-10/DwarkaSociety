@@ -13,8 +13,7 @@ import {
 } from 'lucide-react'
 import societyInfo from '../data/societyInfo'
 import committeeData from '../data/committeeData'
-import societyHighlightsPageData from '../data/societyHighlightspageData'
-
+import societyHighlightsPageData from '../data/societyHighlightsPageData'
 const factCards = [
   {
     id: 1,
