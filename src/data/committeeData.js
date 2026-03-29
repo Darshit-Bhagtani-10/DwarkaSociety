@@ -1,14 +1,14 @@
 const committeeData = [
   {
     id: 1,
-    name: 'Naina Dharod',
+    name: 'Nayna Dharod',
     role: 'Chairperson',
     description:
       'Leads the society committee and helps guide major governance and community decisions.',
   },
   {
     id: 2,
-    name: 'Bharati Savla',
+    name: 'Bharti Savla',
     role: 'Secretary',
     description:
       'Oversees society administration, records, communication, and formal documentation.',
